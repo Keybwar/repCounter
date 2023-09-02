@@ -1,6 +1,6 @@
 body {
-    background-image: url("fitness.jpg");
-    background-size: cover;
+    background-image: url("");
+    background-size: ;
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
@@ -24,6 +24,7 @@ h2 {
     font-size: 50px;
     margin-top: 20px;
     margin-bottom: 20px;
+    padding-top: 50px;
 }
 
 button {
